@@ -47,7 +47,6 @@ const Forgottenpassword = () => {
       }
 
       const handleFacebook = (e) => {
-        // window.location.href = "https://www.facebook.com/profile.php?id=61574843025485"
         console.log("first")
       }
 
