@@ -54,7 +54,7 @@ const Withdrawals = () => {
                         {/* <div className="w-max flex flex-col gap-4 mt-4">
                             <div className="w-64 h-max flex justify-between border-b border-b-gray-300">
                                 <p className="text-sm text-[#8094ae]">Duration</p>
-                                <p className="text-sm text-[#526484]">{investment?.plan.durationDays}  Days</p>
+                                <p className="text-sm text-[#526484]">{investment?.plan.durationDays} xn  Days</p>
                             </div> */}
                             <div className="w-64 h-max flex justify-between border-b border-b-gray-300">
                                 <p className="text-sm text-[#8094ae]">Withdrew Date</p>
